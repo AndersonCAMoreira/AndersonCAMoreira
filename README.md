@@ -1,8 +1,9 @@
-<div align="center">
+<!--div align="center">
     <a href="https://github.com/OstinUA">
-        <img src="http://localhost:3000/api?lines=Hello%2C%20GitHub!;Welcome%20to%20my%20profile&animation=glitch&color=FF0000&background=241f31&size=22&font=serif&duration=3500&pause=1000&width=435&height=50&letterSpacing=normal&center=true&vCenter=true&multiline=false&repeat=true&random=false" alt="SVG Animation" />
+        <img src="
+            lines=Hello%2C%20GitHub!;Welcome%20to%20my%20profile&animation=glitch&color=FF0000&background=241f31&size=22&font=serif&duration=3500&pause=1000&width=435&height=50&letterSpacing=normal&center=true&vCenter=true&multiline=false&repeat=true&random=false" alt="SVG Animation" />
     </a>
-</div>
+</div-->
 
 #
 
@@ -57,6 +58,7 @@ Sou Anderson Moreira, um engenheiro em ascensão. Comecei a aprender mais sobre 
 
 <br/>
 <br/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -147,8 +149,3 @@ Sou Anderson Moreira, um engenheiro em ascensão. Comecei a aprender mais sobre 
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonCAMoreira/andersonCAMoreira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonCAMoreira/andersonCAMoreira/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonCAMoreira/andersonCAMoreira/output/github-contribution-grid-snake.svg">
-</picture>
